@@ -1,0 +1,22 @@
+# === Node (Frontend) ===
+project_pravaah_frontend/node_modules/
+project_pravaah_frontend/.next/
+project_pravaah_frontend/.env
+project_pravaah_frontend/.env.local
+project_pravaah_frontend/.env.production
+project_pravaah_frontend/npm-debug.log
+
+# === Python (Backend) ===
+myenv/
+__pycache__/
+*.pyc
+
+# === Secrets ===
+.env
+firebase-key.json
+
+# === OS / Editor ===
+.DS_Store
+.vscode/
+*.log
+Thumbs.db

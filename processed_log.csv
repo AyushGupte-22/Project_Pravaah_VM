@@ -1,0 +1,10 @@
+timestamp,doc_type,vendor_name,total_amount,invoice_date
+2025-11-06 23:50:14.628424,Invoice,Lala Infotech,22725.0,2024-05-31
+2025-11-06 23:51:28.973018,Invoice,Priya Electronics,104430.0,2024-11-15
+2025-11-07 00:13:47.538294,Inspection Report,N/A,0.0,N/A
+2025-11-07 00:56:28.150221,Invoice,Priya Electronics,104430.0,2024-11-15
+2025-11-07 01:07:39.767722,Invoice,GimBooks,13244.6,2024-07-16
+2025-11-07 01:08:53.393293,Invoice,East Repair Inc.,154.06,2019-02-11
+2025-11-07 01:12:31.610004,Invoice,Ad4tech Material LLC,1564.0,2021-06-22
+2025-11-07 01:22:57.882889,Invoice,Lala Infotech,22725.0,2024-05-31
+2025-11-07 01:37:36.416512,Invoice,CloudZen Software Labs Pvt. Ltd.,47925.0,2017-07-26
