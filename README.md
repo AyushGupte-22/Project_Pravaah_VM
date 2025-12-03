@@ -67,7 +67,7 @@ cd project_pravaah_backend
 python -m venv venv
 
 # Windows
-.env\Scripts\activate
+.env\Scripts\activate
 
 # Mac/Linux
 source venv/bin/activate
@@ -125,8 +125,9 @@ OCR Engine → Tesseract + PyMuPDF
 ```
 
 ## 👤 Author
-Built by **Your Name**  
-for the **Value Momentum Case Study**.
+Built by **Ayush Gupte** 
+        **Aman Tiwari**
+        **Ayush Warulkar**
 
 ## 🤝 Contributing
 Pull requests are welcome.
