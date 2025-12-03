@@ -108,13 +108,6 @@ npm run dev
 App URL: **http://localhost:3000**  
 API URL: **http://127.0.0.1:8000**
 
-## 📸 Screenshots
-```
-/screenshots
- ├── dashboard.png
- ├── upload_page.png
- └── review_queue.png
-```
 
 ## 🧩 Architecture (High-Level)
 ```
@@ -125,9 +118,10 @@ OCR Engine → Tesseract + PyMuPDF
 ```
 
 ## 👤 Author
-Built by **Ayush Gupte** 
-        **Aman Tiwari**
-        **Ayush Warulkar**
+Built by 
+- **Ayush Gupte**
+- **Aman Tiwari**
+- **Ayush Warulkar**
 
 ## 🤝 Contributing
 Pull requests are welcome.
